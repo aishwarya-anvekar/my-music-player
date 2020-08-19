@@ -103,7 +103,7 @@ h3 {
 }
 
 /* Media Query: iPhone (Vertical) */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 376px) {
   .player-container {
     width: 95vw;
   }
